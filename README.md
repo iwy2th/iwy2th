@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Huy Loi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwy2th&label=Profile%20views&color=0e75b6&style=flat" alt="iwy2th" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwy2th" alt="iwy2th" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
