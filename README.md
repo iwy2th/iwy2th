@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tran Huy Loi</h1>
+
 
 
 
